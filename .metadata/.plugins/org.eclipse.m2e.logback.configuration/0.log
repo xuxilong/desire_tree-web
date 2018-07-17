@@ -1,0 +1,155 @@
+2018-07-17 10:42:59,336 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-07-17 10:52:23,331 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-parent:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-parent\pom.xml.
+2018-07-17 17:14:56,613 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-common:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-common\pom.xml.
+2018-07-17 17:14:56,838 [Worker-78] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-common/src/main/java
+2018-07-17 17:14:56,841 [Worker-78] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-common/src/main/resources
+2018-07-17 17:14:56,842 [Worker-78] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-common/src/test/java
+2018-07-17 17:14:56,842 [Worker-78] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-common/src/test/resources
+2018-07-17 17:14:58,036 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:14:58,045 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:14:58,047 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:14:58,049 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:16:42,966 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-common:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-common\pom.xml.
+2018-07-17 17:16:43,167 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-common/src/main/java
+2018-07-17 17:16:43,167 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-common/src/main/resources
+2018-07-17 17:16:43,168 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-common/src/test/java
+2018-07-17 17:16:43,168 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-common/src/test/resources
+2018-07-17 17:16:43,440 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:16:43,442 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:16:43,443 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:16:43,445 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:32:29,305 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-manager:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\pom.xml.
+2018-07-17 17:39:49,219 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-pojo:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-pojo\pom.xml.
+2018-07-17 17:39:49,266 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-pojo/src/main/java
+2018-07-17 17:39:49,266 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-pojo/src/main/resources
+2018-07-17 17:39:49,267 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-pojo/src/test/java
+2018-07-17 17:39:49,267 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-pojo/src/test/resources
+2018-07-17 17:39:49,570 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-manager:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\pom.xml.
+2018-07-17 17:39:49,622 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-pojo:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-pojo\pom.xml.
+2018-07-17 17:39:49,780 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:39:49,782 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:39:49,783 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:39:49,785 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:44:19,283 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-mapper:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-mapper\pom.xml.
+2018-07-17 17:44:19,330 [Worker-85] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-mapper/src/main/java
+2018-07-17 17:44:19,330 [Worker-85] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-mapper/src/main/resources
+2018-07-17 17:44:19,330 [Worker-85] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-mapper/src/test/java
+2018-07-17 17:44:19,330 [Worker-85] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-mapper/src/test/resources
+2018-07-17 17:44:19,568 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:44:19,570 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:44:19,572 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:44:19,574 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:44:20,652 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-manager:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\pom.xml.
+2018-07-17 17:44:20,694 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-pojo:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-pojo\pom.xml.
+2018-07-17 17:44:20,724 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-mapper:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-mapper\pom.xml.
+2018-07-17 17:44:20,860 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:44:20,863 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:44:20,864 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:44:20,867 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:44:20,877 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:44:20,879 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:44:20,880 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:44:20,881 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:22,661 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-service:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-service\pom.xml.
+2018-07-17 17:49:22,715 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-service/src/main/java
+2018-07-17 17:49:22,715 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-service/src/main/resources
+2018-07-17 17:49:22,716 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-service/src/test/java
+2018-07-17 17:49:22,716 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-service/src/test/resources
+2018-07-17 17:49:23,000 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:23,004 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:23,004 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:23,007 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:24,080 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-manager:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\pom.xml.
+2018-07-17 17:49:24,107 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-mapper:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-mapper\pom.xml.
+2018-07-17 17:49:24,138 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-pojo:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-pojo\pom.xml.
+2018-07-17 17:49:24,167 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-service:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-service\pom.xml.
+2018-07-17 17:49:24,324 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:24,326 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:24,327 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:24,329 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:24,339 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:24,341 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:24,343 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:24,345 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:24,353 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:24,354 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:49:24,356 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:49:24,357 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:00,721 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-web:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-web\pom.xml.
+2018-07-17 17:53:00,773 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-web/src/main/java
+2018-07-17 17:53:00,773 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-web/src/main/resources
+2018-07-17 17:53:00,773 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-web/src/test/java
+2018-07-17 17:53:00,773 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-web/src/test/resources
+2018-07-17 17:53:01,017 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:01,019 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:01,021 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:01,023 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,098 [Worker-89] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-manager:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\pom.xml.
+2018-07-17 17:53:02,135 [Worker-89] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-mapper:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-mapper\pom.xml.
+2018-07-17 17:53:02,165 [Worker-89] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-service:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-service\pom.xml.
+2018-07-17 17:53:02,201 [Worker-89] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-pojo:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-pojo\pom.xml.
+2018-07-17 17:53:02,225 [Worker-89] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-web:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-web\pom.xml.
+2018-07-17 17:53:02,389 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,391 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,392 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,394 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,402 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,404 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,405 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,407 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,416 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,418 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,418 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,420 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,427 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,428 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:53:02,429 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:53:02,430 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:54:18,179 [Worker-87] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-web:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-web\pom.xml.
+2018-07-17 17:54:18,224 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-web/src/main/java
+2018-07-17 17:54:18,224 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-web/src/main/resources
+2018-07-17 17:54:18,224 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /desire_tree-manager-web/src/test/java
+2018-07-17 17:54:18,224 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /desire_tree-manager-web/src/test/resources
+2018-07-17 17:54:18,463 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:54:18,467 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:54:18,468 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:54:18,470 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:59:12,946 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:59:12,949 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 17:59:12,950 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 17:59:12,952 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 18:00:21,208 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 18:00:21,209 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 18:00:21,211 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 18:00:21,212 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 18:04:41,130 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 18:04:41,132 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 18:04:41,133 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 18:04:41,135 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:56:58,773 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-parent:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-parent\pom.xml.
+2018-07-17 19:56:59,865 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-common:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-common\pom.xml.
+2018-07-17 19:56:59,867 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.desire:desire_tree-manager:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\pom.xml.
+2018-07-17 19:56:59,906 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-mapper:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-mapper\pom.xml.
+2018-07-17 19:56:59,935 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-service:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-service\pom.xml.
+2018-07-17 19:56:59,965 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-pojo:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-pojo\pom.xml.
+2018-07-17 19:56:59,994 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.desire:desire_tree-manager-web:0.0.1-SNAPSHOT @ G:\Code\Desire\desire_tree-manager\desire_tree-manager-web\pom.xml.
+2018-07-17 19:57:01,535 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,538 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,540 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,541 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,550 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,552 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,553 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,556 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,563 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,565 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,566 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,567 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,577 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,579 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,579 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,581 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,589 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,591 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-17 19:57:01,593 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-17 19:57:01,595 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
